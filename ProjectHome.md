@@ -1,0 +1,1 @@
+This project is not hosting code, but rather makes use of Google Code's issue tracking system to maintain a database of issues with the stereomood API that anyone can vote on and amend.
